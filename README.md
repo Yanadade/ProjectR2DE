@@ -6,4 +6,4 @@
 
 3.Data Pipeline with Airflow and BigQuery
 
-4.Data Visualization Dashboard by Data Studio
+4.Data Visualization Dashboard with Data Studio
